@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: uBlock filters
 ! Expires: 5 days
 ! Last modified: Thu, 19 Nov 2026 18:47:38 +0000
